@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+}
+.navbar {
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;	
+}
+.navbar-toggler {
+	margin-right: 16px;
+}
+.navbar-brand {
+	font-size: 2rem;
+	margin-left: 16px;
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(0, 0, 0, 1);
+	background-color: #e0e2e4;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: #ffffff;
+}
+hr {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+#main-content h2 {
+	margin:25px;
+}
+#main-content section {
+	margin:25px;
+	margin-top: 0;
+	background-color: #e0e2e4;
+}
+#main-content section h3 {
+	margin:10px;
+}
+#main-content section p {
+	padding:30px;
+	padding-top: 5px;
+}
